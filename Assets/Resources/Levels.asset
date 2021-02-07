@@ -1,0 +1,5468 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5f57e6df00914a40b50a4c1b01e5852, type: 3}
+  m_Name: Levels
+  m_EditorClassIdentifier: 
+  LevelDatas:
+  - Sections:
+    - CubeDatas:
+      - CellPosition: {x: 0, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 10}
+        CubeType: 0
+      BarrierDatas: []
+    - CubeDatas:
+      - CellPosition: {x: 0, y: 0, z: 0}
+        CubeType: 3
+      - CellPosition: {x: 0, y: 0, z: 1}
+        CubeType: 3
+      - CellPosition: {x: 0, y: 0, z: 2}
+        CubeType: 3
+      - CellPosition: {x: 0, y: 0, z: 3}
+        CubeType: 3
+      - CellPosition: {x: 0, y: 0, z: 4}
+        CubeType: 3
+      - CellPosition: {x: 0, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 16}
+        CubeType: 3
+      - CellPosition: {x: 0, y: 0, z: 17}
+        CubeType: 3
+      - CellPosition: {x: 0, y: 0, z: 18}
+        CubeType: 3
+      - CellPosition: {x: 0, y: 0, z: 19}
+        CubeType: 3
+      - CellPosition: {x: 0, y: 0, z: 20}
+        CubeType: 3
+      - CellPosition: {x: 1, y: 0, z: 0}
+        CubeType: 3
+      - CellPosition: {x: 1, y: 0, z: 1}
+        CubeType: 3
+      - CellPosition: {x: 1, y: 0, z: 2}
+        CubeType: 3
+      - CellPosition: {x: 1, y: 0, z: 3}
+        CubeType: 3
+      - CellPosition: {x: 1, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 17}
+        CubeType: 3
+      - CellPosition: {x: 1, y: 0, z: 18}
+        CubeType: 3
+      - CellPosition: {x: 1, y: 0, z: 19}
+        CubeType: 3
+      - CellPosition: {x: 1, y: 0, z: 20}
+        CubeType: 3
+      - CellPosition: {x: 2, y: 0, z: 0}
+        CubeType: 3
+      - CellPosition: {x: 2, y: 0, z: 1}
+        CubeType: 3
+      - CellPosition: {x: 2, y: 0, z: 2}
+        CubeType: 3
+      - CellPosition: {x: 2, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 18}
+        CubeType: 3
+      - CellPosition: {x: 2, y: 0, z: 19}
+        CubeType: 3
+      - CellPosition: {x: 2, y: 0, z: 20}
+        CubeType: 3
+      - CellPosition: {x: 3, y: 0, z: 0}
+        CubeType: 3
+      - CellPosition: {x: 3, y: 0, z: 1}
+        CubeType: 3
+      - CellPosition: {x: 3, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 19}
+        CubeType: 3
+      - CellPosition: {x: 3, y: 0, z: 20}
+        CubeType: 3
+      - CellPosition: {x: 4, y: 0, z: 0}
+        CubeType: 3
+      - CellPosition: {x: 4, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 20}
+        CubeType: 3
+      - CellPosition: {x: 5, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 7}
+        CubeType: 3
+      - CellPosition: {x: 5, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 7}
+        CubeType: 3
+      - CellPosition: {x: 6, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 7}
+        CubeType: 3
+      - CellPosition: {x: 7, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 0}
+        CubeType: 3
+      - CellPosition: {x: 8, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 20}
+        CubeType: 3
+      - CellPosition: {x: 9, y: 0, z: 0}
+        CubeType: 3
+      - CellPosition: {x: 9, y: 0, z: 1}
+        CubeType: 3
+      - CellPosition: {x: 9, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 19}
+        CubeType: 3
+      - CellPosition: {x: 9, y: 0, z: 20}
+        CubeType: 3
+      - CellPosition: {x: 10, y: 0, z: 0}
+        CubeType: 3
+      - CellPosition: {x: 10, y: 0, z: 1}
+        CubeType: 3
+      - CellPosition: {x: 10, y: 0, z: 2}
+        CubeType: 3
+      - CellPosition: {x: 10, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 18}
+        CubeType: 3
+      - CellPosition: {x: 10, y: 0, z: 19}
+        CubeType: 3
+      - CellPosition: {x: 10, y: 0, z: 20}
+        CubeType: 3
+      - CellPosition: {x: 11, y: 0, z: 0}
+        CubeType: 3
+      - CellPosition: {x: 11, y: 0, z: 1}
+        CubeType: 3
+      - CellPosition: {x: 11, y: 0, z: 2}
+        CubeType: 3
+      - CellPosition: {x: 11, y: 0, z: 3}
+        CubeType: 3
+      - CellPosition: {x: 11, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 17}
+        CubeType: 3
+      - CellPosition: {x: 11, y: 0, z: 18}
+        CubeType: 3
+      - CellPosition: {x: 11, y: 0, z: 19}
+        CubeType: 3
+      - CellPosition: {x: 11, y: 0, z: 20}
+        CubeType: 3
+      - CellPosition: {x: 12, y: 0, z: 0}
+        CubeType: 3
+      - CellPosition: {x: 12, y: 0, z: 1}
+        CubeType: 3
+      - CellPosition: {x: 12, y: 0, z: 2}
+        CubeType: 3
+      - CellPosition: {x: 12, y: 0, z: 3}
+        CubeType: 3
+      - CellPosition: {x: 12, y: 0, z: 4}
+        CubeType: 3
+      - CellPosition: {x: 12, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 16}
+        CubeType: 3
+      - CellPosition: {x: 12, y: 0, z: 17}
+        CubeType: 3
+      - CellPosition: {x: 12, y: 0, z: 18}
+        CubeType: 3
+      - CellPosition: {x: 12, y: 0, z: 19}
+        CubeType: 3
+      - CellPosition: {x: 12, y: 0, z: 20}
+        CubeType: 3
+      BarrierDatas:
+      - StartCellPosition: {x: 3, y: 0, z: 9}
+        EndCellPosition: {x: 7, y: 0, z: 9}
+      - StartCellPosition: {x: 3, y: 0, z: 10}
+        EndCellPosition: {x: 7, y: 0, z: 10}
+      - StartCellPosition: {x: 3, y: 0, z: 11}
+        EndCellPosition: {x: 7, y: 0, z: 11}
+      - StartCellPosition: {x: 4, y: 0, z: 9}
+        EndCellPosition: {x: 8, y: 0, z: 9}
+      - StartCellPosition: {x: 4, y: 0, z: 10}
+        EndCellPosition: {x: 8, y: 0, z: 10}
+      - StartCellPosition: {x: 4, y: 0, z: 11}
+        EndCellPosition: {x: 8, y: 0, z: 11}
+      - StartCellPosition: {x: 5, y: 0, z: 9}
+        EndCellPosition: {x: 9, y: 0, z: 9}
+      - StartCellPosition: {x: 5, y: 0, z: 10}
+        EndCellPosition: {x: 9, y: 0, z: 10}
+      - StartCellPosition: {x: 5, y: 0, z: 11}
+        EndCellPosition: {x: 9, y: 0, z: 11}
+    - CubeDatas:
+      - CellPosition: {x: 0, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 3}
+        CubeType: 3
+      - CellPosition: {x: 3, y: 0, z: 4}
+        CubeType: 3
+      - CellPosition: {x: 3, y: 0, z: 5}
+        CubeType: 3
+      - CellPosition: {x: 3, y: 0, z: 6}
+        CubeType: 3
+      - CellPosition: {x: 3, y: 0, z: 7}
+        CubeType: 3
+      - CellPosition: {x: 3, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 3}
+        CubeType: 3
+      - CellPosition: {x: 4, y: 0, z: 4}
+        CubeType: 3
+      - CellPosition: {x: 4, y: 0, z: 5}
+        CubeType: 3
+      - CellPosition: {x: 4, y: 0, z: 6}
+        CubeType: 3
+      - CellPosition: {x: 4, y: 0, z: 7}
+        CubeType: 3
+      - CellPosition: {x: 4, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 3}
+        CubeType: 3
+      - CellPosition: {x: 5, y: 0, z: 4}
+        CubeType: 3
+      - CellPosition: {x: 5, y: 0, z: 5}
+        CubeType: 3
+      - CellPosition: {x: 5, y: 0, z: 6}
+        CubeType: 3
+      - CellPosition: {x: 5, y: 0, z: 7}
+        CubeType: 3
+      - CellPosition: {x: 5, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 3}
+        CubeType: 3
+      - CellPosition: {x: 6, y: 0, z: 4}
+        CubeType: 3
+      - CellPosition: {x: 6, y: 0, z: 5}
+        CubeType: 3
+      - CellPosition: {x: 6, y: 0, z: 6}
+        CubeType: 3
+      - CellPosition: {x: 6, y: 0, z: 7}
+        CubeType: 3
+      - CellPosition: {x: 6, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 3}
+        CubeType: 3
+      - CellPosition: {x: 7, y: 0, z: 4}
+        CubeType: 3
+      - CellPosition: {x: 7, y: 0, z: 5}
+        CubeType: 3
+      - CellPosition: {x: 7, y: 0, z: 6}
+        CubeType: 3
+      - CellPosition: {x: 7, y: 0, z: 7}
+        CubeType: 3
+      - CellPosition: {x: 7, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 10}
+        CubeType: 0
+      BarrierDatas: []
+  - Sections:
+    - CubeDatas:
+      - CellPosition: {x: 0, y: 0, z: 0}
+        CubeType: 3
+      - CellPosition: {x: 0, y: 0, z: 1}
+        CubeType: 3
+      - CellPosition: {x: 0, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 23}
+        CubeType: 3
+      - CellPosition: {x: 0, y: 0, z: 24}
+        CubeType: 3
+      - CellPosition: {x: 1, y: 0, z: 0}
+        CubeType: 3
+      - CellPosition: {x: 1, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 24}
+        CubeType: 3
+      - CellPosition: {x: 2, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 0}
+        CubeType: 3
+      - CellPosition: {x: 15, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 24}
+        CubeType: 3
+      - CellPosition: {x: 16, y: 0, z: 0}
+        CubeType: 3
+      - CellPosition: {x: 16, y: 0, z: 1}
+        CubeType: 3
+      - CellPosition: {x: 16, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 23}
+        CubeType: 3
+      - CellPosition: {x: 16, y: 0, z: 24}
+        CubeType: 3
+      BarrierDatas:
+      - StartCellPosition: {x: 0, y: 0, z: 12}
+        EndCellPosition: {x: 0, y: 0, z: 2}
+      - StartCellPosition: {x: 0, y: 0, z: 13}
+        EndCellPosition: {x: 0, y: 0, z: 3}
+      - StartCellPosition: {x: 0, y: 0, z: 14}
+        EndCellPosition: {x: 0, y: 0, z: 4}
+      - StartCellPosition: {x: 0, y: 0, z: 15}
+        EndCellPosition: {x: 0, y: 0, z: 5}
+      - StartCellPosition: {x: 0, y: 0, z: 16}
+        EndCellPosition: {x: 0, y: 0, z: 6}
+      - StartCellPosition: {x: 0, y: 0, z: 17}
+        EndCellPosition: {x: 0, y: 0, z: 7}
+      - StartCellPosition: {x: 0, y: 0, z: 18}
+        EndCellPosition: {x: 0, y: 0, z: 8}
+      - StartCellPosition: {x: 0, y: 0, z: 19}
+        EndCellPosition: {x: 0, y: 0, z: 9}
+      - StartCellPosition: {x: 0, y: 0, z: 20}
+        EndCellPosition: {x: 0, y: 0, z: 10}
+      - StartCellPosition: {x: 0, y: 0, z: 21}
+        EndCellPosition: {x: 0, y: 0, z: 11}
+      - StartCellPosition: {x: 0, y: 0, z: 22}
+        EndCellPosition: {x: 0, y: 0, z: 12}
+      - StartCellPosition: {x: 1, y: 0, z: 12}
+        EndCellPosition: {x: 1, y: 0, z: 2}
+      - StartCellPosition: {x: 1, y: 0, z: 13}
+        EndCellPosition: {x: 1, y: 0, z: 3}
+      - StartCellPosition: {x: 1, y: 0, z: 14}
+        EndCellPosition: {x: 1, y: 0, z: 4}
+      - StartCellPosition: {x: 1, y: 0, z: 15}
+        EndCellPosition: {x: 1, y: 0, z: 5}
+      - StartCellPosition: {x: 1, y: 0, z: 16}
+        EndCellPosition: {x: 1, y: 0, z: 6}
+      - StartCellPosition: {x: 1, y: 0, z: 17}
+        EndCellPosition: {x: 1, y: 0, z: 7}
+      - StartCellPosition: {x: 1, y: 0, z: 18}
+        EndCellPosition: {x: 1, y: 0, z: 8}
+      - StartCellPosition: {x: 1, y: 0, z: 19}
+        EndCellPosition: {x: 1, y: 0, z: 9}
+      - StartCellPosition: {x: 1, y: 0, z: 20}
+        EndCellPosition: {x: 1, y: 0, z: 10}
+      - StartCellPosition: {x: 1, y: 0, z: 21}
+        EndCellPosition: {x: 1, y: 0, z: 11}
+      - StartCellPosition: {x: 1, y: 0, z: 22}
+        EndCellPosition: {x: 1, y: 0, z: 12}
+      - StartCellPosition: {x: 2, y: 0, z: 12}
+        EndCellPosition: {x: 2, y: 0, z: 2}
+      - StartCellPosition: {x: 2, y: 0, z: 13}
+        EndCellPosition: {x: 2, y: 0, z: 3}
+      - StartCellPosition: {x: 2, y: 0, z: 14}
+        EndCellPosition: {x: 2, y: 0, z: 4}
+      - StartCellPosition: {x: 2, y: 0, z: 15}
+        EndCellPosition: {x: 2, y: 0, z: 5}
+      - StartCellPosition: {x: 2, y: 0, z: 16}
+        EndCellPosition: {x: 2, y: 0, z: 6}
+      - StartCellPosition: {x: 2, y: 0, z: 17}
+        EndCellPosition: {x: 2, y: 0, z: 7}
+      - StartCellPosition: {x: 2, y: 0, z: 18}
+        EndCellPosition: {x: 2, y: 0, z: 8}
+      - StartCellPosition: {x: 2, y: 0, z: 19}
+        EndCellPosition: {x: 2, y: 0, z: 9}
+      - StartCellPosition: {x: 2, y: 0, z: 20}
+        EndCellPosition: {x: 2, y: 0, z: 10}
+      - StartCellPosition: {x: 2, y: 0, z: 21}
+        EndCellPosition: {x: 2, y: 0, z: 11}
+      - StartCellPosition: {x: 2, y: 0, z: 22}
+        EndCellPosition: {x: 2, y: 0, z: 12}
+      - StartCellPosition: {x: 3, y: 0, z: 12}
+        EndCellPosition: {x: 3, y: 0, z: 2}
+      - StartCellPosition: {x: 3, y: 0, z: 13}
+        EndCellPosition: {x: 3, y: 0, z: 3}
+      - StartCellPosition: {x: 3, y: 0, z: 14}
+        EndCellPosition: {x: 3, y: 0, z: 4}
+      - StartCellPosition: {x: 3, y: 0, z: 15}
+        EndCellPosition: {x: 3, y: 0, z: 5}
+      - StartCellPosition: {x: 3, y: 0, z: 16}
+        EndCellPosition: {x: 3, y: 0, z: 6}
+      - StartCellPosition: {x: 3, y: 0, z: 17}
+        EndCellPosition: {x: 3, y: 0, z: 7}
+      - StartCellPosition: {x: 3, y: 0, z: 18}
+        EndCellPosition: {x: 3, y: 0, z: 8}
+      - StartCellPosition: {x: 3, y: 0, z: 19}
+        EndCellPosition: {x: 3, y: 0, z: 9}
+      - StartCellPosition: {x: 3, y: 0, z: 20}
+        EndCellPosition: {x: 3, y: 0, z: 10}
+      - StartCellPosition: {x: 3, y: 0, z: 21}
+        EndCellPosition: {x: 3, y: 0, z: 11}
+      - StartCellPosition: {x: 3, y: 0, z: 22}
+        EndCellPosition: {x: 3, y: 0, z: 12}
+      - StartCellPosition: {x: 4, y: 0, z: 12}
+        EndCellPosition: {x: 4, y: 0, z: 2}
+      - StartCellPosition: {x: 4, y: 0, z: 13}
+        EndCellPosition: {x: 4, y: 0, z: 3}
+      - StartCellPosition: {x: 4, y: 0, z: 14}
+        EndCellPosition: {x: 4, y: 0, z: 4}
+      - StartCellPosition: {x: 4, y: 0, z: 15}
+        EndCellPosition: {x: 4, y: 0, z: 5}
+      - StartCellPosition: {x: 4, y: 0, z: 16}
+        EndCellPosition: {x: 4, y: 0, z: 6}
+      - StartCellPosition: {x: 4, y: 0, z: 17}
+        EndCellPosition: {x: 4, y: 0, z: 7}
+      - StartCellPosition: {x: 4, y: 0, z: 18}
+        EndCellPosition: {x: 4, y: 0, z: 8}
+      - StartCellPosition: {x: 4, y: 0, z: 19}
+        EndCellPosition: {x: 4, y: 0, z: 9}
+      - StartCellPosition: {x: 4, y: 0, z: 20}
+        EndCellPosition: {x: 4, y: 0, z: 10}
+      - StartCellPosition: {x: 4, y: 0, z: 21}
+        EndCellPosition: {x: 4, y: 0, z: 11}
+      - StartCellPosition: {x: 4, y: 0, z: 22}
+        EndCellPosition: {x: 4, y: 0, z: 12}
+      - StartCellPosition: {x: 5, y: 0, z: 12}
+        EndCellPosition: {x: 5, y: 0, z: 2}
+      - StartCellPosition: {x: 5, y: 0, z: 13}
+        EndCellPosition: {x: 5, y: 0, z: 3}
+      - StartCellPosition: {x: 5, y: 0, z: 14}
+        EndCellPosition: {x: 5, y: 0, z: 4}
+      - StartCellPosition: {x: 5, y: 0, z: 15}
+        EndCellPosition: {x: 5, y: 0, z: 5}
+      - StartCellPosition: {x: 5, y: 0, z: 16}
+        EndCellPosition: {x: 5, y: 0, z: 6}
+      - StartCellPosition: {x: 5, y: 0, z: 17}
+        EndCellPosition: {x: 5, y: 0, z: 7}
+      - StartCellPosition: {x: 5, y: 0, z: 18}
+        EndCellPosition: {x: 5, y: 0, z: 8}
+      - StartCellPosition: {x: 5, y: 0, z: 19}
+        EndCellPosition: {x: 5, y: 0, z: 9}
+      - StartCellPosition: {x: 5, y: 0, z: 20}
+        EndCellPosition: {x: 5, y: 0, z: 10}
+      - StartCellPosition: {x: 5, y: 0, z: 21}
+        EndCellPosition: {x: 5, y: 0, z: 11}
+      - StartCellPosition: {x: 5, y: 0, z: 22}
+        EndCellPosition: {x: 5, y: 0, z: 12}
+      - StartCellPosition: {x: 6, y: 0, z: 12}
+        EndCellPosition: {x: 6, y: 0, z: 2}
+      - StartCellPosition: {x: 6, y: 0, z: 13}
+        EndCellPosition: {x: 6, y: 0, z: 3}
+      - StartCellPosition: {x: 6, y: 0, z: 14}
+        EndCellPosition: {x: 6, y: 0, z: 4}
+      - StartCellPosition: {x: 6, y: 0, z: 15}
+        EndCellPosition: {x: 6, y: 0, z: 5}
+      - StartCellPosition: {x: 6, y: 0, z: 16}
+        EndCellPosition: {x: 6, y: 0, z: 6}
+      - StartCellPosition: {x: 6, y: 0, z: 17}
+        EndCellPosition: {x: 6, y: 0, z: 7}
+      - StartCellPosition: {x: 6, y: 0, z: 18}
+        EndCellPosition: {x: 6, y: 0, z: 8}
+      - StartCellPosition: {x: 6, y: 0, z: 19}
+        EndCellPosition: {x: 6, y: 0, z: 9}
+      - StartCellPosition: {x: 6, y: 0, z: 20}
+        EndCellPosition: {x: 6, y: 0, z: 10}
+      - StartCellPosition: {x: 6, y: 0, z: 21}
+        EndCellPosition: {x: 6, y: 0, z: 11}
+      - StartCellPosition: {x: 6, y: 0, z: 22}
+        EndCellPosition: {x: 6, y: 0, z: 12}
+      - StartCellPosition: {x: 7, y: 0, z: 12}
+        EndCellPosition: {x: 7, y: 0, z: 2}
+      - StartCellPosition: {x: 7, y: 0, z: 13}
+        EndCellPosition: {x: 7, y: 0, z: 3}
+      - StartCellPosition: {x: 7, y: 0, z: 14}
+        EndCellPosition: {x: 7, y: 0, z: 4}
+      - StartCellPosition: {x: 7, y: 0, z: 15}
+        EndCellPosition: {x: 7, y: 0, z: 5}
+      - StartCellPosition: {x: 7, y: 0, z: 16}
+        EndCellPosition: {x: 7, y: 0, z: 6}
+      - StartCellPosition: {x: 7, y: 0, z: 17}
+        EndCellPosition: {x: 7, y: 0, z: 7}
+      - StartCellPosition: {x: 7, y: 0, z: 18}
+        EndCellPosition: {x: 7, y: 0, z: 8}
+      - StartCellPosition: {x: 7, y: 0, z: 19}
+        EndCellPosition: {x: 7, y: 0, z: 9}
+      - StartCellPosition: {x: 7, y: 0, z: 20}
+        EndCellPosition: {x: 7, y: 0, z: 10}
+      - StartCellPosition: {x: 7, y: 0, z: 21}
+        EndCellPosition: {x: 7, y: 0, z: 11}
+      - StartCellPosition: {x: 7, y: 0, z: 22}
+        EndCellPosition: {x: 7, y: 0, z: 12}
+      - StartCellPosition: {x: 8, y: 0, z: 12}
+        EndCellPosition: {x: 8, y: 0, z: 2}
+      - StartCellPosition: {x: 8, y: 0, z: 13}
+        EndCellPosition: {x: 8, y: 0, z: 3}
+      - StartCellPosition: {x: 8, y: 0, z: 14}
+        EndCellPosition: {x: 8, y: 0, z: 4}
+      - StartCellPosition: {x: 8, y: 0, z: 15}
+        EndCellPosition: {x: 8, y: 0, z: 5}
+      - StartCellPosition: {x: 8, y: 0, z: 16}
+        EndCellPosition: {x: 8, y: 0, z: 6}
+      - StartCellPosition: {x: 8, y: 0, z: 17}
+        EndCellPosition: {x: 8, y: 0, z: 7}
+      - StartCellPosition: {x: 8, y: 0, z: 18}
+        EndCellPosition: {x: 8, y: 0, z: 8}
+      - StartCellPosition: {x: 8, y: 0, z: 19}
+        EndCellPosition: {x: 8, y: 0, z: 9}
+      - StartCellPosition: {x: 8, y: 0, z: 20}
+        EndCellPosition: {x: 8, y: 0, z: 10}
+      - StartCellPosition: {x: 8, y: 0, z: 21}
+        EndCellPosition: {x: 8, y: 0, z: 11}
+      - StartCellPosition: {x: 8, y: 0, z: 22}
+        EndCellPosition: {x: 8, y: 0, z: 12}
+      - StartCellPosition: {x: 9, y: 0, z: 12}
+        EndCellPosition: {x: 9, y: 0, z: 2}
+      - StartCellPosition: {x: 9, y: 0, z: 13}
+        EndCellPosition: {x: 9, y: 0, z: 3}
+      - StartCellPosition: {x: 9, y: 0, z: 14}
+        EndCellPosition: {x: 9, y: 0, z: 4}
+      - StartCellPosition: {x: 9, y: 0, z: 15}
+        EndCellPosition: {x: 9, y: 0, z: 5}
+      - StartCellPosition: {x: 9, y: 0, z: 16}
+        EndCellPosition: {x: 9, y: 0, z: 6}
+      - StartCellPosition: {x: 9, y: 0, z: 17}
+        EndCellPosition: {x: 9, y: 0, z: 7}
+      - StartCellPosition: {x: 9, y: 0, z: 18}
+        EndCellPosition: {x: 9, y: 0, z: 8}
+      - StartCellPosition: {x: 9, y: 0, z: 19}
+        EndCellPosition: {x: 9, y: 0, z: 9}
+      - StartCellPosition: {x: 9, y: 0, z: 20}
+        EndCellPosition: {x: 9, y: 0, z: 10}
+      - StartCellPosition: {x: 9, y: 0, z: 21}
+        EndCellPosition: {x: 9, y: 0, z: 11}
+      - StartCellPosition: {x: 9, y: 0, z: 22}
+        EndCellPosition: {x: 9, y: 0, z: 12}
+      - StartCellPosition: {x: 10, y: 0, z: 12}
+        EndCellPosition: {x: 10, y: 0, z: 2}
+      - StartCellPosition: {x: 10, y: 0, z: 13}
+        EndCellPosition: {x: 10, y: 0, z: 3}
+      - StartCellPosition: {x: 10, y: 0, z: 14}
+        EndCellPosition: {x: 10, y: 0, z: 4}
+      - StartCellPosition: {x: 10, y: 0, z: 15}
+        EndCellPosition: {x: 10, y: 0, z: 5}
+      - StartCellPosition: {x: 10, y: 0, z: 16}
+        EndCellPosition: {x: 10, y: 0, z: 6}
+      - StartCellPosition: {x: 10, y: 0, z: 17}
+        EndCellPosition: {x: 10, y: 0, z: 7}
+      - StartCellPosition: {x: 10, y: 0, z: 18}
+        EndCellPosition: {x: 10, y: 0, z: 8}
+      - StartCellPosition: {x: 10, y: 0, z: 19}
+        EndCellPosition: {x: 10, y: 0, z: 9}
+      - StartCellPosition: {x: 10, y: 0, z: 20}
+        EndCellPosition: {x: 10, y: 0, z: 10}
+      - StartCellPosition: {x: 10, y: 0, z: 21}
+        EndCellPosition: {x: 10, y: 0, z: 11}
+      - StartCellPosition: {x: 10, y: 0, z: 22}
+        EndCellPosition: {x: 10, y: 0, z: 12}
+      - StartCellPosition: {x: 11, y: 0, z: 12}
+        EndCellPosition: {x: 11, y: 0, z: 2}
+      - StartCellPosition: {x: 11, y: 0, z: 13}
+        EndCellPosition: {x: 11, y: 0, z: 3}
+      - StartCellPosition: {x: 11, y: 0, z: 14}
+        EndCellPosition: {x: 11, y: 0, z: 4}
+      - StartCellPosition: {x: 11, y: 0, z: 15}
+        EndCellPosition: {x: 11, y: 0, z: 5}
+      - StartCellPosition: {x: 11, y: 0, z: 16}
+        EndCellPosition: {x: 11, y: 0, z: 6}
+      - StartCellPosition: {x: 11, y: 0, z: 17}
+        EndCellPosition: {x: 11, y: 0, z: 7}
+      - StartCellPosition: {x: 11, y: 0, z: 18}
+        EndCellPosition: {x: 11, y: 0, z: 8}
+      - StartCellPosition: {x: 11, y: 0, z: 19}
+        EndCellPosition: {x: 11, y: 0, z: 9}
+      - StartCellPosition: {x: 11, y: 0, z: 20}
+        EndCellPosition: {x: 11, y: 0, z: 10}
+      - StartCellPosition: {x: 11, y: 0, z: 21}
+        EndCellPosition: {x: 11, y: 0, z: 11}
+      - StartCellPosition: {x: 11, y: 0, z: 22}
+        EndCellPosition: {x: 11, y: 0, z: 12}
+      - StartCellPosition: {x: 12, y: 0, z: 12}
+        EndCellPosition: {x: 12, y: 0, z: 2}
+      - StartCellPosition: {x: 12, y: 0, z: 13}
+        EndCellPosition: {x: 12, y: 0, z: 3}
+      - StartCellPosition: {x: 12, y: 0, z: 14}
+        EndCellPosition: {x: 12, y: 0, z: 4}
+      - StartCellPosition: {x: 12, y: 0, z: 15}
+        EndCellPosition: {x: 12, y: 0, z: 5}
+      - StartCellPosition: {x: 12, y: 0, z: 16}
+        EndCellPosition: {x: 12, y: 0, z: 6}
+      - StartCellPosition: {x: 12, y: 0, z: 17}
+        EndCellPosition: {x: 12, y: 0, z: 7}
+      - StartCellPosition: {x: 12, y: 0, z: 18}
+        EndCellPosition: {x: 12, y: 0, z: 8}
+      - StartCellPosition: {x: 12, y: 0, z: 19}
+        EndCellPosition: {x: 12, y: 0, z: 9}
+      - StartCellPosition: {x: 12, y: 0, z: 20}
+        EndCellPosition: {x: 12, y: 0, z: 10}
+      - StartCellPosition: {x: 12, y: 0, z: 21}
+        EndCellPosition: {x: 12, y: 0, z: 11}
+      - StartCellPosition: {x: 12, y: 0, z: 22}
+        EndCellPosition: {x: 12, y: 0, z: 12}
+      - StartCellPosition: {x: 13, y: 0, z: 12}
+        EndCellPosition: {x: 13, y: 0, z: 2}
+      - StartCellPosition: {x: 13, y: 0, z: 13}
+        EndCellPosition: {x: 13, y: 0, z: 3}
+      - StartCellPosition: {x: 13, y: 0, z: 14}
+        EndCellPosition: {x: 13, y: 0, z: 4}
+      - StartCellPosition: {x: 13, y: 0, z: 15}
+        EndCellPosition: {x: 13, y: 0, z: 5}
+      - StartCellPosition: {x: 13, y: 0, z: 16}
+        EndCellPosition: {x: 13, y: 0, z: 6}
+      - StartCellPosition: {x: 13, y: 0, z: 17}
+        EndCellPosition: {x: 13, y: 0, z: 7}
+      - StartCellPosition: {x: 13, y: 0, z: 18}
+        EndCellPosition: {x: 13, y: 0, z: 8}
+      - StartCellPosition: {x: 13, y: 0, z: 19}
+        EndCellPosition: {x: 13, y: 0, z: 9}
+      - StartCellPosition: {x: 13, y: 0, z: 20}
+        EndCellPosition: {x: 13, y: 0, z: 10}
+      - StartCellPosition: {x: 13, y: 0, z: 21}
+        EndCellPosition: {x: 13, y: 0, z: 11}
+      - StartCellPosition: {x: 13, y: 0, z: 22}
+        EndCellPosition: {x: 13, y: 0, z: 12}
+      - StartCellPosition: {x: 14, y: 0, z: 12}
+        EndCellPosition: {x: 14, y: 0, z: 2}
+      - StartCellPosition: {x: 14, y: 0, z: 13}
+        EndCellPosition: {x: 14, y: 0, z: 3}
+      - StartCellPosition: {x: 14, y: 0, z: 14}
+        EndCellPosition: {x: 14, y: 0, z: 4}
+      - StartCellPosition: {x: 14, y: 0, z: 15}
+        EndCellPosition: {x: 14, y: 0, z: 5}
+      - StartCellPosition: {x: 14, y: 0, z: 16}
+        EndCellPosition: {x: 14, y: 0, z: 6}
+      - StartCellPosition: {x: 14, y: 0, z: 17}
+        EndCellPosition: {x: 14, y: 0, z: 7}
+      - StartCellPosition: {x: 14, y: 0, z: 18}
+        EndCellPosition: {x: 14, y: 0, z: 8}
+      - StartCellPosition: {x: 14, y: 0, z: 19}
+        EndCellPosition: {x: 14, y: 0, z: 9}
+      - StartCellPosition: {x: 14, y: 0, z: 20}
+        EndCellPosition: {x: 14, y: 0, z: 10}
+      - StartCellPosition: {x: 14, y: 0, z: 21}
+        EndCellPosition: {x: 14, y: 0, z: 11}
+      - StartCellPosition: {x: 14, y: 0, z: 22}
+        EndCellPosition: {x: 14, y: 0, z: 12}
+      - StartCellPosition: {x: 15, y: 0, z: 12}
+        EndCellPosition: {x: 15, y: 0, z: 2}
+      - StartCellPosition: {x: 15, y: 0, z: 13}
+        EndCellPosition: {x: 15, y: 0, z: 3}
+      - StartCellPosition: {x: 15, y: 0, z: 14}
+        EndCellPosition: {x: 15, y: 0, z: 4}
+      - StartCellPosition: {x: 15, y: 0, z: 15}
+        EndCellPosition: {x: 15, y: 0, z: 5}
+      - StartCellPosition: {x: 15, y: 0, z: 16}
+        EndCellPosition: {x: 15, y: 0, z: 6}
+      - StartCellPosition: {x: 15, y: 0, z: 17}
+        EndCellPosition: {x: 15, y: 0, z: 7}
+      - StartCellPosition: {x: 15, y: 0, z: 18}
+        EndCellPosition: {x: 15, y: 0, z: 8}
+      - StartCellPosition: {x: 15, y: 0, z: 19}
+        EndCellPosition: {x: 15, y: 0, z: 9}
+      - StartCellPosition: {x: 15, y: 0, z: 20}
+        EndCellPosition: {x: 15, y: 0, z: 10}
+      - StartCellPosition: {x: 15, y: 0, z: 21}
+        EndCellPosition: {x: 15, y: 0, z: 11}
+      - StartCellPosition: {x: 15, y: 0, z: 22}
+        EndCellPosition: {x: 15, y: 0, z: 12}
+      - StartCellPosition: {x: 16, y: 0, z: 12}
+        EndCellPosition: {x: 16, y: 0, z: 2}
+      - StartCellPosition: {x: 16, y: 0, z: 13}
+        EndCellPosition: {x: 16, y: 0, z: 3}
+      - StartCellPosition: {x: 16, y: 0, z: 14}
+        EndCellPosition: {x: 16, y: 0, z: 4}
+      - StartCellPosition: {x: 16, y: 0, z: 15}
+        EndCellPosition: {x: 16, y: 0, z: 5}
+      - StartCellPosition: {x: 16, y: 0, z: 16}
+        EndCellPosition: {x: 16, y: 0, z: 6}
+      - StartCellPosition: {x: 16, y: 0, z: 17}
+        EndCellPosition: {x: 16, y: 0, z: 7}
+      - StartCellPosition: {x: 16, y: 0, z: 18}
+        EndCellPosition: {x: 16, y: 0, z: 8}
+      - StartCellPosition: {x: 16, y: 0, z: 19}
+        EndCellPosition: {x: 16, y: 0, z: 9}
+      - StartCellPosition: {x: 16, y: 0, z: 20}
+        EndCellPosition: {x: 16, y: 0, z: 10}
+      - StartCellPosition: {x: 16, y: 0, z: 21}
+        EndCellPosition: {x: 16, y: 0, z: 11}
+      - StartCellPosition: {x: 16, y: 0, z: 22}
+        EndCellPosition: {x: 16, y: 0, z: 12}
+    - CubeDatas:
+      - CellPosition: {x: 0, y: 0, z: 0}
+        CubeType: 3
+      - CellPosition: {x: 0, y: 0, z: 1}
+        CubeType: 3
+      - CellPosition: {x: 0, y: 0, z: 2}
+        CubeType: 3
+      - CellPosition: {x: 0, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 8}
+        CubeType: 3
+      - CellPosition: {x: 0, y: 0, z: 9}
+        CubeType: 3
+      - CellPosition: {x: 0, y: 0, z: 10}
+        CubeType: 3
+      - CellPosition: {x: 1, y: 0, z: 0}
+        CubeType: 3
+      - CellPosition: {x: 1, y: 0, z: 1}
+        CubeType: 3
+      - CellPosition: {x: 1, y: 0, z: 2}
+        CubeType: 3
+      - CellPosition: {x: 1, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 8}
+        CubeType: 3
+      - CellPosition: {x: 1, y: 0, z: 9}
+        CubeType: 3
+      - CellPosition: {x: 1, y: 0, z: 10}
+        CubeType: 3
+      - CellPosition: {x: 2, y: 0, z: 0}
+        CubeType: 3
+      - CellPosition: {x: 2, y: 0, z: 1}
+        CubeType: 3
+      - CellPosition: {x: 2, y: 0, z: 2}
+        CubeType: 3
+      - CellPosition: {x: 2, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 8}
+        CubeType: 3
+      - CellPosition: {x: 2, y: 0, z: 9}
+        CubeType: 3
+      - CellPosition: {x: 2, y: 0, z: 10}
+        CubeType: 3
+      - CellPosition: {x: 3, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 5}
+        CubeType: 3
+      - CellPosition: {x: 4, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 5}
+        CubeType: 3
+      - CellPosition: {x: 5, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 5}
+        CubeType: 3
+      - CellPosition: {x: 6, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 0}
+        CubeType: 3
+      - CellPosition: {x: 8, y: 0, z: 1}
+        CubeType: 3
+      - CellPosition: {x: 8, y: 0, z: 2}
+        CubeType: 3
+      - CellPosition: {x: 8, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 8}
+        CubeType: 3
+      - CellPosition: {x: 8, y: 0, z: 9}
+        CubeType: 3
+      - CellPosition: {x: 8, y: 0, z: 10}
+        CubeType: 3
+      - CellPosition: {x: 9, y: 0, z: 0}
+        CubeType: 3
+      - CellPosition: {x: 9, y: 0, z: 1}
+        CubeType: 3
+      - CellPosition: {x: 9, y: 0, z: 2}
+        CubeType: 3
+      - CellPosition: {x: 9, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 8}
+        CubeType: 3
+      - CellPosition: {x: 9, y: 0, z: 9}
+        CubeType: 3
+      - CellPosition: {x: 9, y: 0, z: 10}
+        CubeType: 3
+      - CellPosition: {x: 10, y: 0, z: 0}
+        CubeType: 3
+      - CellPosition: {x: 10, y: 0, z: 1}
+        CubeType: 3
+      - CellPosition: {x: 10, y: 0, z: 2}
+        CubeType: 3
+      - CellPosition: {x: 10, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 8}
+        CubeType: 3
+      - CellPosition: {x: 10, y: 0, z: 9}
+        CubeType: 3
+      - CellPosition: {x: 10, y: 0, z: 10}
+        CubeType: 3
+      BarrierDatas: []
+    - CubeDatas:
+      - CellPosition: {x: 0, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 4}
+        CubeType: 3
+      - CellPosition: {x: 7, y: 0, z: 5}
+        CubeType: 3
+      - CellPosition: {x: 7, y: 0, z: 6}
+        CubeType: 3
+      - CellPosition: {x: 7, y: 0, z: 7}
+        CubeType: 3
+      - CellPosition: {x: 7, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 21}
+        CubeType: 3
+      - CellPosition: {x: 7, y: 0, z: 22}
+        CubeType: 3
+      - CellPosition: {x: 7, y: 0, z: 23}
+        CubeType: 3
+      - CellPosition: {x: 7, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 4}
+        CubeType: 3
+      - CellPosition: {x: 8, y: 0, z: 5}
+        CubeType: 3
+      - CellPosition: {x: 8, y: 0, z: 6}
+        CubeType: 3
+      - CellPosition: {x: 8, y: 0, z: 7}
+        CubeType: 3
+      - CellPosition: {x: 8, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 21}
+        CubeType: 3
+      - CellPosition: {x: 8, y: 0, z: 22}
+        CubeType: 3
+      - CellPosition: {x: 8, y: 0, z: 23}
+        CubeType: 3
+      - CellPosition: {x: 8, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 4}
+        CubeType: 3
+      - CellPosition: {x: 9, y: 0, z: 5}
+        CubeType: 3
+      - CellPosition: {x: 9, y: 0, z: 6}
+        CubeType: 3
+      - CellPosition: {x: 9, y: 0, z: 7}
+        CubeType: 3
+      - CellPosition: {x: 9, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 21}
+        CubeType: 3
+      - CellPosition: {x: 9, y: 0, z: 22}
+        CubeType: 3
+      - CellPosition: {x: 9, y: 0, z: 23}
+        CubeType: 3
+      - CellPosition: {x: 9, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 24}
+        CubeType: 0
+      BarrierDatas:
+      - StartCellPosition: {x: 0, y: 0, z: 12}
+        EndCellPosition: {x: 0, y: 0, z: 4}
+      - StartCellPosition: {x: 0, y: 0, z: 13}
+        EndCellPosition: {x: 0, y: 0, z: 5}
+      - StartCellPosition: {x: 0, y: 0, z: 14}
+        EndCellPosition: {x: 0, y: 0, z: 6}
+      - StartCellPosition: {x: 0, y: 0, z: 15}
+        EndCellPosition: {x: 0, y: 0, z: 7}
+      - StartCellPosition: {x: 0, y: 0, z: 16}
+        EndCellPosition: {x: 0, y: 0, z: 8}
+      - StartCellPosition: {x: 0, y: 0, z: 17}
+        EndCellPosition: {x: 0, y: 0, z: 9}
+      - StartCellPosition: {x: 0, y: 0, z: 18}
+        EndCellPosition: {x: 0, y: 0, z: 10}
+      - StartCellPosition: {x: 0, y: 0, z: 19}
+        EndCellPosition: {x: 0, y: 0, z: 11}
+      - StartCellPosition: {x: 0, y: 0, z: 20}
+        EndCellPosition: {x: 0, y: 0, z: 12}
+      - StartCellPosition: {x: 0, y: 0, z: 21}
+        EndCellPosition: {x: 0, y: 0, z: 13}
+      - StartCellPosition: {x: 0, y: 0, z: 22}
+        EndCellPosition: {x: 0, y: 0, z: 14}
+      - StartCellPosition: {x: 0, y: 0, z: 23}
+        EndCellPosition: {x: 0, y: 0, z: 15}
+      - StartCellPosition: {x: 0, y: 0, z: 24}
+        EndCellPosition: {x: 0, y: 0, z: 16}
+      - StartCellPosition: {x: 1, y: 0, z: 12}
+        EndCellPosition: {x: 1, y: 0, z: 4}
+      - StartCellPosition: {x: 1, y: 0, z: 13}
+        EndCellPosition: {x: 1, y: 0, z: 5}
+      - StartCellPosition: {x: 1, y: 0, z: 14}
+        EndCellPosition: {x: 1, y: 0, z: 6}
+      - StartCellPosition: {x: 1, y: 0, z: 15}
+        EndCellPosition: {x: 1, y: 0, z: 7}
+      - StartCellPosition: {x: 1, y: 0, z: 16}
+        EndCellPosition: {x: 1, y: 0, z: 8}
+      - StartCellPosition: {x: 1, y: 0, z: 17}
+        EndCellPosition: {x: 1, y: 0, z: 9}
+      - StartCellPosition: {x: 1, y: 0, z: 18}
+        EndCellPosition: {x: 1, y: 0, z: 10}
+      - StartCellPosition: {x: 1, y: 0, z: 19}
+        EndCellPosition: {x: 1, y: 0, z: 11}
+      - StartCellPosition: {x: 1, y: 0, z: 20}
+        EndCellPosition: {x: 1, y: 0, z: 12}
+      - StartCellPosition: {x: 1, y: 0, z: 21}
+        EndCellPosition: {x: 1, y: 0, z: 13}
+      - StartCellPosition: {x: 1, y: 0, z: 22}
+        EndCellPosition: {x: 1, y: 0, z: 14}
+      - StartCellPosition: {x: 1, y: 0, z: 23}
+        EndCellPosition: {x: 1, y: 0, z: 15}
+      - StartCellPosition: {x: 1, y: 0, z: 24}
+        EndCellPosition: {x: 1, y: 0, z: 16}
+      - StartCellPosition: {x: 2, y: 0, z: 12}
+        EndCellPosition: {x: 2, y: 0, z: 4}
+      - StartCellPosition: {x: 2, y: 0, z: 13}
+        EndCellPosition: {x: 2, y: 0, z: 5}
+      - StartCellPosition: {x: 2, y: 0, z: 14}
+        EndCellPosition: {x: 2, y: 0, z: 6}
+      - StartCellPosition: {x: 2, y: 0, z: 15}
+        EndCellPosition: {x: 2, y: 0, z: 7}
+      - StartCellPosition: {x: 2, y: 0, z: 16}
+        EndCellPosition: {x: 2, y: 0, z: 8}
+      - StartCellPosition: {x: 2, y: 0, z: 17}
+        EndCellPosition: {x: 2, y: 0, z: 9}
+      - StartCellPosition: {x: 2, y: 0, z: 18}
+        EndCellPosition: {x: 2, y: 0, z: 10}
+      - StartCellPosition: {x: 2, y: 0, z: 19}
+        EndCellPosition: {x: 2, y: 0, z: 11}
+      - StartCellPosition: {x: 2, y: 0, z: 20}
+        EndCellPosition: {x: 2, y: 0, z: 12}
+      - StartCellPosition: {x: 2, y: 0, z: 21}
+        EndCellPosition: {x: 2, y: 0, z: 13}
+      - StartCellPosition: {x: 2, y: 0, z: 22}
+        EndCellPosition: {x: 2, y: 0, z: 14}
+      - StartCellPosition: {x: 2, y: 0, z: 23}
+        EndCellPosition: {x: 2, y: 0, z: 15}
+      - StartCellPosition: {x: 2, y: 0, z: 24}
+        EndCellPosition: {x: 2, y: 0, z: 16}
+      - StartCellPosition: {x: 3, y: 0, z: 12}
+        EndCellPosition: {x: 3, y: 0, z: 4}
+      - StartCellPosition: {x: 3, y: 0, z: 13}
+        EndCellPosition: {x: 3, y: 0, z: 5}
+      - StartCellPosition: {x: 3, y: 0, z: 14}
+        EndCellPosition: {x: 3, y: 0, z: 6}
+      - StartCellPosition: {x: 3, y: 0, z: 15}
+        EndCellPosition: {x: 3, y: 0, z: 7}
+      - StartCellPosition: {x: 3, y: 0, z: 16}
+        EndCellPosition: {x: 3, y: 0, z: 8}
+      - StartCellPosition: {x: 3, y: 0, z: 17}
+        EndCellPosition: {x: 3, y: 0, z: 9}
+      - StartCellPosition: {x: 3, y: 0, z: 18}
+        EndCellPosition: {x: 3, y: 0, z: 10}
+      - StartCellPosition: {x: 3, y: 0, z: 19}
+        EndCellPosition: {x: 3, y: 0, z: 11}
+      - StartCellPosition: {x: 3, y: 0, z: 20}
+        EndCellPosition: {x: 3, y: 0, z: 12}
+      - StartCellPosition: {x: 3, y: 0, z: 21}
+        EndCellPosition: {x: 3, y: 0, z: 13}
+      - StartCellPosition: {x: 3, y: 0, z: 22}
+        EndCellPosition: {x: 3, y: 0, z: 14}
+      - StartCellPosition: {x: 3, y: 0, z: 23}
+        EndCellPosition: {x: 3, y: 0, z: 15}
+      - StartCellPosition: {x: 3, y: 0, z: 24}
+        EndCellPosition: {x: 3, y: 0, z: 16}
+      - StartCellPosition: {x: 4, y: 0, z: 12}
+        EndCellPosition: {x: 4, y: 0, z: 4}
+      - StartCellPosition: {x: 4, y: 0, z: 13}
+        EndCellPosition: {x: 4, y: 0, z: 5}
+      - StartCellPosition: {x: 4, y: 0, z: 14}
+        EndCellPosition: {x: 4, y: 0, z: 6}
+      - StartCellPosition: {x: 4, y: 0, z: 15}
+        EndCellPosition: {x: 4, y: 0, z: 7}
+      - StartCellPosition: {x: 4, y: 0, z: 16}
+        EndCellPosition: {x: 4, y: 0, z: 8}
+      - StartCellPosition: {x: 4, y: 0, z: 17}
+        EndCellPosition: {x: 4, y: 0, z: 9}
+      - StartCellPosition: {x: 4, y: 0, z: 18}
+        EndCellPosition: {x: 4, y: 0, z: 10}
+      - StartCellPosition: {x: 4, y: 0, z: 19}
+        EndCellPosition: {x: 4, y: 0, z: 11}
+      - StartCellPosition: {x: 4, y: 0, z: 20}
+        EndCellPosition: {x: 4, y: 0, z: 12}
+      - StartCellPosition: {x: 4, y: 0, z: 21}
+        EndCellPosition: {x: 4, y: 0, z: 13}
+      - StartCellPosition: {x: 4, y: 0, z: 22}
+        EndCellPosition: {x: 4, y: 0, z: 14}
+      - StartCellPosition: {x: 4, y: 0, z: 23}
+        EndCellPosition: {x: 4, y: 0, z: 15}
+      - StartCellPosition: {x: 4, y: 0, z: 24}
+        EndCellPosition: {x: 4, y: 0, z: 16}
+      - StartCellPosition: {x: 5, y: 0, z: 12}
+        EndCellPosition: {x: 5, y: 0, z: 4}
+      - StartCellPosition: {x: 5, y: 0, z: 13}
+        EndCellPosition: {x: 5, y: 0, z: 5}
+      - StartCellPosition: {x: 5, y: 0, z: 14}
+        EndCellPosition: {x: 5, y: 0, z: 6}
+      - StartCellPosition: {x: 5, y: 0, z: 15}
+        EndCellPosition: {x: 5, y: 0, z: 7}
+      - StartCellPosition: {x: 5, y: 0, z: 16}
+        EndCellPosition: {x: 5, y: 0, z: 8}
+      - StartCellPosition: {x: 5, y: 0, z: 17}
+        EndCellPosition: {x: 5, y: 0, z: 9}
+      - StartCellPosition: {x: 5, y: 0, z: 18}
+        EndCellPosition: {x: 5, y: 0, z: 10}
+      - StartCellPosition: {x: 5, y: 0, z: 19}
+        EndCellPosition: {x: 5, y: 0, z: 11}
+      - StartCellPosition: {x: 5, y: 0, z: 20}
+        EndCellPosition: {x: 5, y: 0, z: 12}
+      - StartCellPosition: {x: 5, y: 0, z: 21}
+        EndCellPosition: {x: 5, y: 0, z: 13}
+      - StartCellPosition: {x: 5, y: 0, z: 22}
+        EndCellPosition: {x: 5, y: 0, z: 14}
+      - StartCellPosition: {x: 5, y: 0, z: 23}
+        EndCellPosition: {x: 5, y: 0, z: 15}
+      - StartCellPosition: {x: 5, y: 0, z: 24}
+        EndCellPosition: {x: 5, y: 0, z: 16}
+      - StartCellPosition: {x: 6, y: 0, z: 12}
+        EndCellPosition: {x: 6, y: 0, z: 4}
+      - StartCellPosition: {x: 6, y: 0, z: 13}
+        EndCellPosition: {x: 6, y: 0, z: 5}
+      - StartCellPosition: {x: 6, y: 0, z: 14}
+        EndCellPosition: {x: 6, y: 0, z: 6}
+      - StartCellPosition: {x: 6, y: 0, z: 15}
+        EndCellPosition: {x: 6, y: 0, z: 7}
+      - StartCellPosition: {x: 6, y: 0, z: 16}
+        EndCellPosition: {x: 6, y: 0, z: 8}
+      - StartCellPosition: {x: 6, y: 0, z: 17}
+        EndCellPosition: {x: 6, y: 0, z: 9}
+      - StartCellPosition: {x: 6, y: 0, z: 18}
+        EndCellPosition: {x: 6, y: 0, z: 10}
+      - StartCellPosition: {x: 6, y: 0, z: 19}
+        EndCellPosition: {x: 6, y: 0, z: 11}
+      - StartCellPosition: {x: 6, y: 0, z: 20}
+        EndCellPosition: {x: 6, y: 0, z: 12}
+      - StartCellPosition: {x: 6, y: 0, z: 21}
+        EndCellPosition: {x: 6, y: 0, z: 13}
+      - StartCellPosition: {x: 6, y: 0, z: 22}
+        EndCellPosition: {x: 6, y: 0, z: 14}
+      - StartCellPosition: {x: 6, y: 0, z: 23}
+        EndCellPosition: {x: 6, y: 0, z: 15}
+      - StartCellPosition: {x: 6, y: 0, z: 24}
+        EndCellPosition: {x: 6, y: 0, z: 16}
+      - StartCellPosition: {x: 7, y: 0, z: 16}
+        EndCellPosition: {x: 7, y: 0, z: 8}
+      - StartCellPosition: {x: 7, y: 0, z: 17}
+        EndCellPosition: {x: 7, y: 0, z: 9}
+      - StartCellPosition: {x: 7, y: 0, z: 18}
+        EndCellPosition: {x: 7, y: 0, z: 10}
+      - StartCellPosition: {x: 7, y: 0, z: 19}
+        EndCellPosition: {x: 7, y: 0, z: 11}
+      - StartCellPosition: {x: 7, y: 0, z: 20}
+        EndCellPosition: {x: 7, y: 0, z: 12}
+      - StartCellPosition: {x: 8, y: 0, z: 16}
+        EndCellPosition: {x: 8, y: 0, z: 8}
+      - StartCellPosition: {x: 8, y: 0, z: 17}
+        EndCellPosition: {x: 8, y: 0, z: 9}
+      - StartCellPosition: {x: 8, y: 0, z: 18}
+        EndCellPosition: {x: 8, y: 0, z: 10}
+      - StartCellPosition: {x: 8, y: 0, z: 19}
+        EndCellPosition: {x: 8, y: 0, z: 11}
+      - StartCellPosition: {x: 8, y: 0, z: 20}
+        EndCellPosition: {x: 8, y: 0, z: 12}
+      - StartCellPosition: {x: 9, y: 0, z: 16}
+        EndCellPosition: {x: 9, y: 0, z: 8}
+      - StartCellPosition: {x: 9, y: 0, z: 17}
+        EndCellPosition: {x: 9, y: 0, z: 9}
+      - StartCellPosition: {x: 9, y: 0, z: 18}
+        EndCellPosition: {x: 9, y: 0, z: 10}
+      - StartCellPosition: {x: 9, y: 0, z: 19}
+        EndCellPosition: {x: 9, y: 0, z: 11}
+      - StartCellPosition: {x: 9, y: 0, z: 20}
+        EndCellPosition: {x: 9, y: 0, z: 12}
+      - StartCellPosition: {x: 10, y: 0, z: 12}
+        EndCellPosition: {x: 10, y: 0, z: 4}
+      - StartCellPosition: {x: 10, y: 0, z: 13}
+        EndCellPosition: {x: 10, y: 0, z: 5}
+      - StartCellPosition: {x: 10, y: 0, z: 14}
+        EndCellPosition: {x: 10, y: 0, z: 6}
+      - StartCellPosition: {x: 10, y: 0, z: 15}
+        EndCellPosition: {x: 10, y: 0, z: 7}
+      - StartCellPosition: {x: 10, y: 0, z: 16}
+        EndCellPosition: {x: 10, y: 0, z: 8}
+      - StartCellPosition: {x: 10, y: 0, z: 17}
+        EndCellPosition: {x: 10, y: 0, z: 9}
+      - StartCellPosition: {x: 10, y: 0, z: 18}
+        EndCellPosition: {x: 10, y: 0, z: 10}
+      - StartCellPosition: {x: 10, y: 0, z: 19}
+        EndCellPosition: {x: 10, y: 0, z: 11}
+      - StartCellPosition: {x: 10, y: 0, z: 20}
+        EndCellPosition: {x: 10, y: 0, z: 12}
+      - StartCellPosition: {x: 10, y: 0, z: 21}
+        EndCellPosition: {x: 10, y: 0, z: 13}
+      - StartCellPosition: {x: 10, y: 0, z: 22}
+        EndCellPosition: {x: 10, y: 0, z: 14}
+      - StartCellPosition: {x: 10, y: 0, z: 23}
+        EndCellPosition: {x: 10, y: 0, z: 15}
+      - StartCellPosition: {x: 10, y: 0, z: 24}
+        EndCellPosition: {x: 10, y: 0, z: 16}
+      - StartCellPosition: {x: 11, y: 0, z: 12}
+        EndCellPosition: {x: 11, y: 0, z: 4}
+      - StartCellPosition: {x: 11, y: 0, z: 13}
+        EndCellPosition: {x: 11, y: 0, z: 5}
+      - StartCellPosition: {x: 11, y: 0, z: 14}
+        EndCellPosition: {x: 11, y: 0, z: 6}
+      - StartCellPosition: {x: 11, y: 0, z: 15}
+        EndCellPosition: {x: 11, y: 0, z: 7}
+      - StartCellPosition: {x: 11, y: 0, z: 16}
+        EndCellPosition: {x: 11, y: 0, z: 8}
+      - StartCellPosition: {x: 11, y: 0, z: 17}
+        EndCellPosition: {x: 11, y: 0, z: 9}
+      - StartCellPosition: {x: 11, y: 0, z: 18}
+        EndCellPosition: {x: 11, y: 0, z: 10}
+      - StartCellPosition: {x: 11, y: 0, z: 19}
+        EndCellPosition: {x: 11, y: 0, z: 11}
+      - StartCellPosition: {x: 11, y: 0, z: 20}
+        EndCellPosition: {x: 11, y: 0, z: 12}
+      - StartCellPosition: {x: 11, y: 0, z: 21}
+        EndCellPosition: {x: 11, y: 0, z: 13}
+      - StartCellPosition: {x: 11, y: 0, z: 22}
+        EndCellPosition: {x: 11, y: 0, z: 14}
+      - StartCellPosition: {x: 11, y: 0, z: 23}
+        EndCellPosition: {x: 11, y: 0, z: 15}
+      - StartCellPosition: {x: 11, y: 0, z: 24}
+        EndCellPosition: {x: 11, y: 0, z: 16}
+      - StartCellPosition: {x: 12, y: 0, z: 12}
+        EndCellPosition: {x: 12, y: 0, z: 4}
+      - StartCellPosition: {x: 12, y: 0, z: 13}
+        EndCellPosition: {x: 12, y: 0, z: 5}
+      - StartCellPosition: {x: 12, y: 0, z: 14}
+        EndCellPosition: {x: 12, y: 0, z: 6}
+      - StartCellPosition: {x: 12, y: 0, z: 15}
+        EndCellPosition: {x: 12, y: 0, z: 7}
+      - StartCellPosition: {x: 12, y: 0, z: 16}
+        EndCellPosition: {x: 12, y: 0, z: 8}
+      - StartCellPosition: {x: 12, y: 0, z: 17}
+        EndCellPosition: {x: 12, y: 0, z: 9}
+      - StartCellPosition: {x: 12, y: 0, z: 18}
+        EndCellPosition: {x: 12, y: 0, z: 10}
+      - StartCellPosition: {x: 12, y: 0, z: 19}
+        EndCellPosition: {x: 12, y: 0, z: 11}
+      - StartCellPosition: {x: 12, y: 0, z: 20}
+        EndCellPosition: {x: 12, y: 0, z: 12}
+      - StartCellPosition: {x: 12, y: 0, z: 21}
+        EndCellPosition: {x: 12, y: 0, z: 13}
+      - StartCellPosition: {x: 12, y: 0, z: 22}
+        EndCellPosition: {x: 12, y: 0, z: 14}
+      - StartCellPosition: {x: 12, y: 0, z: 23}
+        EndCellPosition: {x: 12, y: 0, z: 15}
+      - StartCellPosition: {x: 12, y: 0, z: 24}
+        EndCellPosition: {x: 12, y: 0, z: 16}
+      - StartCellPosition: {x: 13, y: 0, z: 12}
+        EndCellPosition: {x: 13, y: 0, z: 4}
+      - StartCellPosition: {x: 13, y: 0, z: 13}
+        EndCellPosition: {x: 13, y: 0, z: 5}
+      - StartCellPosition: {x: 13, y: 0, z: 14}
+        EndCellPosition: {x: 13, y: 0, z: 6}
+      - StartCellPosition: {x: 13, y: 0, z: 15}
+        EndCellPosition: {x: 13, y: 0, z: 7}
+      - StartCellPosition: {x: 13, y: 0, z: 16}
+        EndCellPosition: {x: 13, y: 0, z: 8}
+      - StartCellPosition: {x: 13, y: 0, z: 17}
+        EndCellPosition: {x: 13, y: 0, z: 9}
+      - StartCellPosition: {x: 13, y: 0, z: 18}
+        EndCellPosition: {x: 13, y: 0, z: 10}
+      - StartCellPosition: {x: 13, y: 0, z: 19}
+        EndCellPosition: {x: 13, y: 0, z: 11}
+      - StartCellPosition: {x: 13, y: 0, z: 20}
+        EndCellPosition: {x: 13, y: 0, z: 12}
+      - StartCellPosition: {x: 13, y: 0, z: 21}
+        EndCellPosition: {x: 13, y: 0, z: 13}
+      - StartCellPosition: {x: 13, y: 0, z: 22}
+        EndCellPosition: {x: 13, y: 0, z: 14}
+      - StartCellPosition: {x: 13, y: 0, z: 23}
+        EndCellPosition: {x: 13, y: 0, z: 15}
+      - StartCellPosition: {x: 13, y: 0, z: 24}
+        EndCellPosition: {x: 13, y: 0, z: 16}
+      - StartCellPosition: {x: 14, y: 0, z: 12}
+        EndCellPosition: {x: 14, y: 0, z: 4}
+      - StartCellPosition: {x: 14, y: 0, z: 13}
+        EndCellPosition: {x: 14, y: 0, z: 5}
+      - StartCellPosition: {x: 14, y: 0, z: 14}
+        EndCellPosition: {x: 14, y: 0, z: 6}
+      - StartCellPosition: {x: 14, y: 0, z: 15}
+        EndCellPosition: {x: 14, y: 0, z: 7}
+      - StartCellPosition: {x: 14, y: 0, z: 16}
+        EndCellPosition: {x: 14, y: 0, z: 8}
+      - StartCellPosition: {x: 14, y: 0, z: 17}
+        EndCellPosition: {x: 14, y: 0, z: 9}
+      - StartCellPosition: {x: 14, y: 0, z: 18}
+        EndCellPosition: {x: 14, y: 0, z: 10}
+      - StartCellPosition: {x: 14, y: 0, z: 19}
+        EndCellPosition: {x: 14, y: 0, z: 11}
+      - StartCellPosition: {x: 14, y: 0, z: 20}
+        EndCellPosition: {x: 14, y: 0, z: 12}
+      - StartCellPosition: {x: 14, y: 0, z: 21}
+        EndCellPosition: {x: 14, y: 0, z: 13}
+      - StartCellPosition: {x: 14, y: 0, z: 22}
+        EndCellPosition: {x: 14, y: 0, z: 14}
+      - StartCellPosition: {x: 14, y: 0, z: 23}
+        EndCellPosition: {x: 14, y: 0, z: 15}
+      - StartCellPosition: {x: 14, y: 0, z: 24}
+        EndCellPosition: {x: 14, y: 0, z: 16}
+      - StartCellPosition: {x: 15, y: 0, z: 12}
+        EndCellPosition: {x: 15, y: 0, z: 4}
+      - StartCellPosition: {x: 15, y: 0, z: 13}
+        EndCellPosition: {x: 15, y: 0, z: 5}
+      - StartCellPosition: {x: 15, y: 0, z: 14}
+        EndCellPosition: {x: 15, y: 0, z: 6}
+      - StartCellPosition: {x: 15, y: 0, z: 15}
+        EndCellPosition: {x: 15, y: 0, z: 7}
+      - StartCellPosition: {x: 15, y: 0, z: 16}
+        EndCellPosition: {x: 15, y: 0, z: 8}
+      - StartCellPosition: {x: 15, y: 0, z: 17}
+        EndCellPosition: {x: 15, y: 0, z: 9}
+      - StartCellPosition: {x: 15, y: 0, z: 18}
+        EndCellPosition: {x: 15, y: 0, z: 10}
+      - StartCellPosition: {x: 15, y: 0, z: 19}
+        EndCellPosition: {x: 15, y: 0, z: 11}
+      - StartCellPosition: {x: 15, y: 0, z: 20}
+        EndCellPosition: {x: 15, y: 0, z: 12}
+      - StartCellPosition: {x: 15, y: 0, z: 21}
+        EndCellPosition: {x: 15, y: 0, z: 13}
+      - StartCellPosition: {x: 15, y: 0, z: 22}
+        EndCellPosition: {x: 15, y: 0, z: 14}
+      - StartCellPosition: {x: 15, y: 0, z: 23}
+        EndCellPosition: {x: 15, y: 0, z: 15}
+      - StartCellPosition: {x: 15, y: 0, z: 24}
+        EndCellPosition: {x: 15, y: 0, z: 16}
+      - StartCellPosition: {x: 16, y: 0, z: 12}
+        EndCellPosition: {x: 16, y: 0, z: 4}
+      - StartCellPosition: {x: 16, y: 0, z: 13}
+        EndCellPosition: {x: 16, y: 0, z: 5}
+      - StartCellPosition: {x: 16, y: 0, z: 14}
+        EndCellPosition: {x: 16, y: 0, z: 6}
+      - StartCellPosition: {x: 16, y: 0, z: 15}
+        EndCellPosition: {x: 16, y: 0, z: 7}
+      - StartCellPosition: {x: 16, y: 0, z: 16}
+        EndCellPosition: {x: 16, y: 0, z: 8}
+      - StartCellPosition: {x: 16, y: 0, z: 17}
+        EndCellPosition: {x: 16, y: 0, z: 9}
+      - StartCellPosition: {x: 16, y: 0, z: 18}
+        EndCellPosition: {x: 16, y: 0, z: 10}
+      - StartCellPosition: {x: 16, y: 0, z: 19}
+        EndCellPosition: {x: 16, y: 0, z: 11}
+      - StartCellPosition: {x: 16, y: 0, z: 20}
+        EndCellPosition: {x: 16, y: 0, z: 12}
+      - StartCellPosition: {x: 16, y: 0, z: 21}
+        EndCellPosition: {x: 16, y: 0, z: 13}
+      - StartCellPosition: {x: 16, y: 0, z: 22}
+        EndCellPosition: {x: 16, y: 0, z: 14}
+      - StartCellPosition: {x: 16, y: 0, z: 23}
+        EndCellPosition: {x: 16, y: 0, z: 15}
+      - StartCellPosition: {x: 16, y: 0, z: 24}
+        EndCellPosition: {x: 16, y: 0, z: 16}
+  - Sections:
+    - CubeDatas:
+      - CellPosition: {x: 0, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 10}
+        CubeType: 0
+      BarrierDatas:
+      - StartCellPosition: {x: 1, y: 0, z: 3}
+        EndCellPosition: {x: 1, y: 0, z: 3}
+      - StartCellPosition: {x: 1, y: 0, z: 4}
+        EndCellPosition: {x: 1, y: 0, z: 4}
+      - StartCellPosition: {x: 1, y: 0, z: 5}
+        EndCellPosition: {x: 1, y: 0, z: 5}
+      - StartCellPosition: {x: 1, y: 0, z: 6}
+        EndCellPosition: {x: 1, y: 0, z: 6}
+      - StartCellPosition: {x: 1, y: 0, z: 7}
+        EndCellPosition: {x: 1, y: 0, z: 7}
+      - StartCellPosition: {x: 2, y: 0, z: 3}
+        EndCellPosition: {x: 2, y: 0, z: 3}
+      - StartCellPosition: {x: 2, y: 0, z: 4}
+        EndCellPosition: {x: 2, y: 0, z: 4}
+      - StartCellPosition: {x: 2, y: 0, z: 5}
+        EndCellPosition: {x: 2, y: 0, z: 5}
+      - StartCellPosition: {x: 2, y: 0, z: 6}
+        EndCellPosition: {x: 2, y: 0, z: 6}
+      - StartCellPosition: {x: 2, y: 0, z: 7}
+        EndCellPosition: {x: 2, y: 0, z: 7}
+      - StartCellPosition: {x: 8, y: 0, z: 3}
+        EndCellPosition: {x: 8, y: 0, z: 3}
+      - StartCellPosition: {x: 8, y: 0, z: 4}
+        EndCellPosition: {x: 8, y: 0, z: 4}
+      - StartCellPosition: {x: 8, y: 0, z: 5}
+        EndCellPosition: {x: 8, y: 0, z: 5}
+      - StartCellPosition: {x: 8, y: 0, z: 6}
+        EndCellPosition: {x: 8, y: 0, z: 6}
+      - StartCellPosition: {x: 8, y: 0, z: 7}
+        EndCellPosition: {x: 8, y: 0, z: 7}
+      - StartCellPosition: {x: 9, y: 0, z: 3}
+        EndCellPosition: {x: 9, y: 0, z: 3}
+      - StartCellPosition: {x: 9, y: 0, z: 4}
+        EndCellPosition: {x: 9, y: 0, z: 4}
+      - StartCellPosition: {x: 9, y: 0, z: 5}
+        EndCellPosition: {x: 9, y: 0, z: 5}
+      - StartCellPosition: {x: 9, y: 0, z: 6}
+        EndCellPosition: {x: 9, y: 0, z: 6}
+      - StartCellPosition: {x: 9, y: 0, z: 7}
+        EndCellPosition: {x: 9, y: 0, z: 7}
+    - CubeDatas:
+      - CellPosition: {x: 0, y: 0, z: 0}
+        CubeType: 3
+      - CellPosition: {x: 0, y: 0, z: 1}
+        CubeType: 3
+      - CellPosition: {x: 0, y: 0, z: 2}
+        CubeType: 3
+      - CellPosition: {x: 0, y: 0, z: 3}
+        CubeType: 3
+      - CellPosition: {x: 0, y: 0, z: 4}
+        CubeType: 3
+      - CellPosition: {x: 0, y: 0, z: 5}
+        CubeType: 3
+      - CellPosition: {x: 0, y: 0, z: 6}
+        CubeType: 3
+      - CellPosition: {x: 0, y: 0, z: 7}
+        CubeType: 3
+      - CellPosition: {x: 0, y: 0, z: 8}
+        CubeType: 3
+      - CellPosition: {x: 0, y: 0, z: 9}
+        CubeType: 3
+      - CellPosition: {x: 0, y: 0, z: 10}
+        CubeType: 3
+      - CellPosition: {x: 0, y: 0, z: 11}
+        CubeType: 3
+      - CellPosition: {x: 0, y: 0, z: 12}
+        CubeType: 3
+      - CellPosition: {x: 0, y: 0, z: 13}
+        CubeType: 3
+      - CellPosition: {x: 0, y: 0, z: 14}
+        CubeType: 3
+      - CellPosition: {x: 0, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 0}
+        CubeType: 3
+      - CellPosition: {x: 1, y: 0, z: 1}
+        CubeType: 3
+      - CellPosition: {x: 1, y: 0, z: 2}
+        CubeType: 3
+      - CellPosition: {x: 1, y: 0, z: 3}
+        CubeType: 3
+      - CellPosition: {x: 1, y: 0, z: 4}
+        CubeType: 3
+      - CellPosition: {x: 1, y: 0, z: 5}
+        CubeType: 3
+      - CellPosition: {x: 1, y: 0, z: 6}
+        CubeType: 3
+      - CellPosition: {x: 1, y: 0, z: 7}
+        CubeType: 3
+      - CellPosition: {x: 1, y: 0, z: 8}
+        CubeType: 3
+      - CellPosition: {x: 1, y: 0, z: 9}
+        CubeType: 3
+      - CellPosition: {x: 1, y: 0, z: 10}
+        CubeType: 3
+      - CellPosition: {x: 1, y: 0, z: 11}
+        CubeType: 3
+      - CellPosition: {x: 1, y: 0, z: 12}
+        CubeType: 3
+      - CellPosition: {x: 1, y: 0, z: 13}
+        CubeType: 3
+      - CellPosition: {x: 1, y: 0, z: 14}
+        CubeType: 3
+      - CellPosition: {x: 1, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 11, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 12, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 13, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 11}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 12}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 13}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 14}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 14, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 0}
+        CubeType: 3
+      - CellPosition: {x: 15, y: 0, z: 1}
+        CubeType: 3
+      - CellPosition: {x: 15, y: 0, z: 2}
+        CubeType: 3
+      - CellPosition: {x: 15, y: 0, z: 3}
+        CubeType: 3
+      - CellPosition: {x: 15, y: 0, z: 4}
+        CubeType: 3
+      - CellPosition: {x: 15, y: 0, z: 5}
+        CubeType: 3
+      - CellPosition: {x: 15, y: 0, z: 6}
+        CubeType: 3
+      - CellPosition: {x: 15, y: 0, z: 7}
+        CubeType: 3
+      - CellPosition: {x: 15, y: 0, z: 8}
+        CubeType: 3
+      - CellPosition: {x: 15, y: 0, z: 9}
+        CubeType: 3
+      - CellPosition: {x: 15, y: 0, z: 10}
+        CubeType: 3
+      - CellPosition: {x: 15, y: 0, z: 11}
+        CubeType: 3
+      - CellPosition: {x: 15, y: 0, z: 12}
+        CubeType: 3
+      - CellPosition: {x: 15, y: 0, z: 13}
+        CubeType: 3
+      - CellPosition: {x: 15, y: 0, z: 14}
+        CubeType: 3
+      - CellPosition: {x: 15, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 15, y: 0, z: 24}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 0}
+        CubeType: 3
+      - CellPosition: {x: 16, y: 0, z: 1}
+        CubeType: 3
+      - CellPosition: {x: 16, y: 0, z: 2}
+        CubeType: 3
+      - CellPosition: {x: 16, y: 0, z: 3}
+        CubeType: 3
+      - CellPosition: {x: 16, y: 0, z: 4}
+        CubeType: 3
+      - CellPosition: {x: 16, y: 0, z: 5}
+        CubeType: 3
+      - CellPosition: {x: 16, y: 0, z: 6}
+        CubeType: 3
+      - CellPosition: {x: 16, y: 0, z: 7}
+        CubeType: 3
+      - CellPosition: {x: 16, y: 0, z: 8}
+        CubeType: 3
+      - CellPosition: {x: 16, y: 0, z: 9}
+        CubeType: 3
+      - CellPosition: {x: 16, y: 0, z: 10}
+        CubeType: 3
+      - CellPosition: {x: 16, y: 0, z: 11}
+        CubeType: 3
+      - CellPosition: {x: 16, y: 0, z: 12}
+        CubeType: 3
+      - CellPosition: {x: 16, y: 0, z: 13}
+        CubeType: 3
+      - CellPosition: {x: 16, y: 0, z: 14}
+        CubeType: 3
+      - CellPosition: {x: 16, y: 0, z: 15}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 16}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 17}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 18}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 19}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 20}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 21}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 22}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 23}
+        CubeType: 0
+      - CellPosition: {x: 16, y: 0, z: 24}
+        CubeType: 0
+      BarrierDatas:
+      - StartCellPosition: {x: 2, y: 0, z: 15}
+        EndCellPosition: {x: 2, y: 0, z: 2}
+      - StartCellPosition: {x: 2, y: 0, z: 16}
+        EndCellPosition: {x: 2, y: 0, z: 3}
+      - StartCellPosition: {x: 2, y: 0, z: 17}
+        EndCellPosition: {x: 2, y: 0, z: 4}
+      - StartCellPosition: {x: 2, y: 0, z: 18}
+        EndCellPosition: {x: 2, y: 0, z: 5}
+      - StartCellPosition: {x: 2, y: 0, z: 19}
+        EndCellPosition: {x: 2, y: 0, z: 6}
+      - StartCellPosition: {x: 2, y: 0, z: 20}
+        EndCellPosition: {x: 2, y: 0, z: 7}
+      - StartCellPosition: {x: 2, y: 0, z: 21}
+        EndCellPosition: {x: 2, y: 0, z: 8}
+      - StartCellPosition: {x: 2, y: 0, z: 22}
+        EndCellPosition: {x: 2, y: 0, z: 9}
+      - StartCellPosition: {x: 2, y: 0, z: 23}
+        EndCellPosition: {x: 2, y: 0, z: 10}
+      - StartCellPosition: {x: 2, y: 0, z: 24}
+        EndCellPosition: {x: 2, y: 0, z: 11}
+      - StartCellPosition: {x: 3, y: 0, z: 15}
+        EndCellPosition: {x: 3, y: 0, z: 2}
+      - StartCellPosition: {x: 3, y: 0, z: 16}
+        EndCellPosition: {x: 3, y: 0, z: 3}
+      - StartCellPosition: {x: 3, y: 0, z: 17}
+        EndCellPosition: {x: 3, y: 0, z: 4}
+      - StartCellPosition: {x: 3, y: 0, z: 18}
+        EndCellPosition: {x: 3, y: 0, z: 5}
+      - StartCellPosition: {x: 3, y: 0, z: 19}
+        EndCellPosition: {x: 3, y: 0, z: 6}
+      - StartCellPosition: {x: 3, y: 0, z: 20}
+        EndCellPosition: {x: 3, y: 0, z: 7}
+      - StartCellPosition: {x: 3, y: 0, z: 21}
+        EndCellPosition: {x: 3, y: 0, z: 8}
+      - StartCellPosition: {x: 3, y: 0, z: 22}
+        EndCellPosition: {x: 3, y: 0, z: 9}
+      - StartCellPosition: {x: 3, y: 0, z: 23}
+        EndCellPosition: {x: 3, y: 0, z: 10}
+      - StartCellPosition: {x: 3, y: 0, z: 24}
+        EndCellPosition: {x: 3, y: 0, z: 11}
+      - StartCellPosition: {x: 4, y: 0, z: 15}
+        EndCellPosition: {x: 4, y: 0, z: 2}
+      - StartCellPosition: {x: 4, y: 0, z: 16}
+        EndCellPosition: {x: 4, y: 0, z: 3}
+      - StartCellPosition: {x: 4, y: 0, z: 17}
+        EndCellPosition: {x: 4, y: 0, z: 4}
+      - StartCellPosition: {x: 4, y: 0, z: 18}
+        EndCellPosition: {x: 4, y: 0, z: 5}
+      - StartCellPosition: {x: 4, y: 0, z: 19}
+        EndCellPosition: {x: 4, y: 0, z: 6}
+      - StartCellPosition: {x: 4, y: 0, z: 20}
+        EndCellPosition: {x: 4, y: 0, z: 7}
+      - StartCellPosition: {x: 4, y: 0, z: 21}
+        EndCellPosition: {x: 4, y: 0, z: 8}
+      - StartCellPosition: {x: 4, y: 0, z: 22}
+        EndCellPosition: {x: 4, y: 0, z: 9}
+      - StartCellPosition: {x: 4, y: 0, z: 23}
+        EndCellPosition: {x: 4, y: 0, z: 10}
+      - StartCellPosition: {x: 4, y: 0, z: 24}
+        EndCellPosition: {x: 4, y: 0, z: 11}
+      - StartCellPosition: {x: 5, y: 0, z: 15}
+        EndCellPosition: {x: 5, y: 0, z: 2}
+      - StartCellPosition: {x: 5, y: 0, z: 16}
+        EndCellPosition: {x: 5, y: 0, z: 3}
+      - StartCellPosition: {x: 5, y: 0, z: 17}
+        EndCellPosition: {x: 5, y: 0, z: 4}
+      - StartCellPosition: {x: 5, y: 0, z: 18}
+        EndCellPosition: {x: 5, y: 0, z: 5}
+      - StartCellPosition: {x: 5, y: 0, z: 19}
+        EndCellPosition: {x: 5, y: 0, z: 6}
+      - StartCellPosition: {x: 5, y: 0, z: 20}
+        EndCellPosition: {x: 5, y: 0, z: 7}
+      - StartCellPosition: {x: 5, y: 0, z: 21}
+        EndCellPosition: {x: 5, y: 0, z: 8}
+      - StartCellPosition: {x: 5, y: 0, z: 22}
+        EndCellPosition: {x: 5, y: 0, z: 9}
+      - StartCellPosition: {x: 5, y: 0, z: 23}
+        EndCellPosition: {x: 5, y: 0, z: 10}
+      - StartCellPosition: {x: 5, y: 0, z: 24}
+        EndCellPosition: {x: 5, y: 0, z: 11}
+      - StartCellPosition: {x: 6, y: 0, z: 15}
+        EndCellPosition: {x: 6, y: 0, z: 2}
+      - StartCellPosition: {x: 6, y: 0, z: 16}
+        EndCellPosition: {x: 6, y: 0, z: 3}
+      - StartCellPosition: {x: 6, y: 0, z: 17}
+        EndCellPosition: {x: 6, y: 0, z: 4}
+      - StartCellPosition: {x: 6, y: 0, z: 18}
+        EndCellPosition: {x: 6, y: 0, z: 5}
+      - StartCellPosition: {x: 6, y: 0, z: 19}
+        EndCellPosition: {x: 6, y: 0, z: 6}
+      - StartCellPosition: {x: 6, y: 0, z: 20}
+        EndCellPosition: {x: 6, y: 0, z: 7}
+      - StartCellPosition: {x: 6, y: 0, z: 21}
+        EndCellPosition: {x: 6, y: 0, z: 8}
+      - StartCellPosition: {x: 6, y: 0, z: 22}
+        EndCellPosition: {x: 6, y: 0, z: 9}
+      - StartCellPosition: {x: 6, y: 0, z: 23}
+        EndCellPosition: {x: 6, y: 0, z: 10}
+      - StartCellPosition: {x: 6, y: 0, z: 24}
+        EndCellPosition: {x: 6, y: 0, z: 11}
+      - StartCellPosition: {x: 7, y: 0, z: 15}
+        EndCellPosition: {x: 7, y: 0, z: 2}
+      - StartCellPosition: {x: 7, y: 0, z: 16}
+        EndCellPosition: {x: 7, y: 0, z: 3}
+      - StartCellPosition: {x: 7, y: 0, z: 17}
+        EndCellPosition: {x: 7, y: 0, z: 4}
+      - StartCellPosition: {x: 7, y: 0, z: 18}
+        EndCellPosition: {x: 7, y: 0, z: 5}
+      - StartCellPosition: {x: 7, y: 0, z: 19}
+        EndCellPosition: {x: 7, y: 0, z: 6}
+      - StartCellPosition: {x: 7, y: 0, z: 20}
+        EndCellPosition: {x: 7, y: 0, z: 7}
+      - StartCellPosition: {x: 7, y: 0, z: 21}
+        EndCellPosition: {x: 7, y: 0, z: 8}
+      - StartCellPosition: {x: 7, y: 0, z: 22}
+        EndCellPosition: {x: 7, y: 0, z: 9}
+      - StartCellPosition: {x: 7, y: 0, z: 23}
+        EndCellPosition: {x: 7, y: 0, z: 10}
+      - StartCellPosition: {x: 7, y: 0, z: 24}
+        EndCellPosition: {x: 7, y: 0, z: 11}
+      - StartCellPosition: {x: 8, y: 0, z: 15}
+        EndCellPosition: {x: 8, y: 0, z: 2}
+      - StartCellPosition: {x: 8, y: 0, z: 16}
+        EndCellPosition: {x: 8, y: 0, z: 3}
+      - StartCellPosition: {x: 8, y: 0, z: 17}
+        EndCellPosition: {x: 8, y: 0, z: 4}
+      - StartCellPosition: {x: 8, y: 0, z: 18}
+        EndCellPosition: {x: 8, y: 0, z: 5}
+      - StartCellPosition: {x: 8, y: 0, z: 19}
+        EndCellPosition: {x: 8, y: 0, z: 6}
+      - StartCellPosition: {x: 8, y: 0, z: 20}
+        EndCellPosition: {x: 8, y: 0, z: 7}
+      - StartCellPosition: {x: 8, y: 0, z: 21}
+        EndCellPosition: {x: 8, y: 0, z: 8}
+      - StartCellPosition: {x: 8, y: 0, z: 22}
+        EndCellPosition: {x: 8, y: 0, z: 9}
+      - StartCellPosition: {x: 8, y: 0, z: 23}
+        EndCellPosition: {x: 8, y: 0, z: 10}
+      - StartCellPosition: {x: 8, y: 0, z: 24}
+        EndCellPosition: {x: 8, y: 0, z: 11}
+      - StartCellPosition: {x: 9, y: 0, z: 15}
+        EndCellPosition: {x: 9, y: 0, z: 2}
+      - StartCellPosition: {x: 9, y: 0, z: 16}
+        EndCellPosition: {x: 9, y: 0, z: 3}
+      - StartCellPosition: {x: 9, y: 0, z: 17}
+        EndCellPosition: {x: 9, y: 0, z: 4}
+      - StartCellPosition: {x: 9, y: 0, z: 18}
+        EndCellPosition: {x: 9, y: 0, z: 5}
+      - StartCellPosition: {x: 9, y: 0, z: 19}
+        EndCellPosition: {x: 9, y: 0, z: 6}
+      - StartCellPosition: {x: 9, y: 0, z: 20}
+        EndCellPosition: {x: 9, y: 0, z: 7}
+      - StartCellPosition: {x: 9, y: 0, z: 21}
+        EndCellPosition: {x: 9, y: 0, z: 8}
+      - StartCellPosition: {x: 9, y: 0, z: 22}
+        EndCellPosition: {x: 9, y: 0, z: 9}
+      - StartCellPosition: {x: 9, y: 0, z: 23}
+        EndCellPosition: {x: 9, y: 0, z: 10}
+      - StartCellPosition: {x: 9, y: 0, z: 24}
+        EndCellPosition: {x: 9, y: 0, z: 11}
+      - StartCellPosition: {x: 10, y: 0, z: 15}
+        EndCellPosition: {x: 10, y: 0, z: 2}
+      - StartCellPosition: {x: 10, y: 0, z: 16}
+        EndCellPosition: {x: 10, y: 0, z: 3}
+      - StartCellPosition: {x: 10, y: 0, z: 17}
+        EndCellPosition: {x: 10, y: 0, z: 4}
+      - StartCellPosition: {x: 10, y: 0, z: 18}
+        EndCellPosition: {x: 10, y: 0, z: 5}
+      - StartCellPosition: {x: 10, y: 0, z: 19}
+        EndCellPosition: {x: 10, y: 0, z: 6}
+      - StartCellPosition: {x: 10, y: 0, z: 20}
+        EndCellPosition: {x: 10, y: 0, z: 7}
+      - StartCellPosition: {x: 10, y: 0, z: 21}
+        EndCellPosition: {x: 10, y: 0, z: 8}
+      - StartCellPosition: {x: 10, y: 0, z: 22}
+        EndCellPosition: {x: 10, y: 0, z: 9}
+      - StartCellPosition: {x: 10, y: 0, z: 23}
+        EndCellPosition: {x: 10, y: 0, z: 10}
+      - StartCellPosition: {x: 10, y: 0, z: 24}
+        EndCellPosition: {x: 10, y: 0, z: 11}
+      - StartCellPosition: {x: 11, y: 0, z: 15}
+        EndCellPosition: {x: 11, y: 0, z: 2}
+      - StartCellPosition: {x: 11, y: 0, z: 16}
+        EndCellPosition: {x: 11, y: 0, z: 3}
+      - StartCellPosition: {x: 11, y: 0, z: 17}
+        EndCellPosition: {x: 11, y: 0, z: 4}
+      - StartCellPosition: {x: 11, y: 0, z: 18}
+        EndCellPosition: {x: 11, y: 0, z: 5}
+      - StartCellPosition: {x: 11, y: 0, z: 19}
+        EndCellPosition: {x: 11, y: 0, z: 6}
+      - StartCellPosition: {x: 11, y: 0, z: 20}
+        EndCellPosition: {x: 11, y: 0, z: 7}
+      - StartCellPosition: {x: 11, y: 0, z: 21}
+        EndCellPosition: {x: 11, y: 0, z: 8}
+      - StartCellPosition: {x: 11, y: 0, z: 22}
+        EndCellPosition: {x: 11, y: 0, z: 9}
+      - StartCellPosition: {x: 11, y: 0, z: 23}
+        EndCellPosition: {x: 11, y: 0, z: 10}
+      - StartCellPosition: {x: 11, y: 0, z: 24}
+        EndCellPosition: {x: 11, y: 0, z: 11}
+      - StartCellPosition: {x: 12, y: 0, z: 15}
+        EndCellPosition: {x: 12, y: 0, z: 2}
+      - StartCellPosition: {x: 12, y: 0, z: 16}
+        EndCellPosition: {x: 12, y: 0, z: 3}
+      - StartCellPosition: {x: 12, y: 0, z: 17}
+        EndCellPosition: {x: 12, y: 0, z: 4}
+      - StartCellPosition: {x: 12, y: 0, z: 18}
+        EndCellPosition: {x: 12, y: 0, z: 5}
+      - StartCellPosition: {x: 12, y: 0, z: 19}
+        EndCellPosition: {x: 12, y: 0, z: 6}
+      - StartCellPosition: {x: 12, y: 0, z: 20}
+        EndCellPosition: {x: 12, y: 0, z: 7}
+      - StartCellPosition: {x: 12, y: 0, z: 21}
+        EndCellPosition: {x: 12, y: 0, z: 8}
+      - StartCellPosition: {x: 12, y: 0, z: 22}
+        EndCellPosition: {x: 12, y: 0, z: 9}
+      - StartCellPosition: {x: 12, y: 0, z: 23}
+        EndCellPosition: {x: 12, y: 0, z: 10}
+      - StartCellPosition: {x: 12, y: 0, z: 24}
+        EndCellPosition: {x: 12, y: 0, z: 11}
+      - StartCellPosition: {x: 13, y: 0, z: 15}
+        EndCellPosition: {x: 13, y: 0, z: 2}
+      - StartCellPosition: {x: 13, y: 0, z: 16}
+        EndCellPosition: {x: 13, y: 0, z: 3}
+      - StartCellPosition: {x: 13, y: 0, z: 17}
+        EndCellPosition: {x: 13, y: 0, z: 4}
+      - StartCellPosition: {x: 13, y: 0, z: 18}
+        EndCellPosition: {x: 13, y: 0, z: 5}
+      - StartCellPosition: {x: 13, y: 0, z: 19}
+        EndCellPosition: {x: 13, y: 0, z: 6}
+      - StartCellPosition: {x: 13, y: 0, z: 20}
+        EndCellPosition: {x: 13, y: 0, z: 7}
+      - StartCellPosition: {x: 13, y: 0, z: 21}
+        EndCellPosition: {x: 13, y: 0, z: 8}
+      - StartCellPosition: {x: 13, y: 0, z: 22}
+        EndCellPosition: {x: 13, y: 0, z: 9}
+      - StartCellPosition: {x: 13, y: 0, z: 23}
+        EndCellPosition: {x: 13, y: 0, z: 10}
+      - StartCellPosition: {x: 13, y: 0, z: 24}
+        EndCellPosition: {x: 13, y: 0, z: 11}
+      - StartCellPosition: {x: 14, y: 0, z: 15}
+        EndCellPosition: {x: 14, y: 0, z: 2}
+      - StartCellPosition: {x: 14, y: 0, z: 16}
+        EndCellPosition: {x: 14, y: 0, z: 3}
+      - StartCellPosition: {x: 14, y: 0, z: 17}
+        EndCellPosition: {x: 14, y: 0, z: 4}
+      - StartCellPosition: {x: 14, y: 0, z: 18}
+        EndCellPosition: {x: 14, y: 0, z: 5}
+      - StartCellPosition: {x: 14, y: 0, z: 19}
+        EndCellPosition: {x: 14, y: 0, z: 6}
+      - StartCellPosition: {x: 14, y: 0, z: 20}
+        EndCellPosition: {x: 14, y: 0, z: 7}
+      - StartCellPosition: {x: 14, y: 0, z: 21}
+        EndCellPosition: {x: 14, y: 0, z: 8}
+      - StartCellPosition: {x: 14, y: 0, z: 22}
+        EndCellPosition: {x: 14, y: 0, z: 9}
+      - StartCellPosition: {x: 14, y: 0, z: 23}
+        EndCellPosition: {x: 14, y: 0, z: 10}
+      - StartCellPosition: {x: 14, y: 0, z: 24}
+        EndCellPosition: {x: 14, y: 0, z: 11}
+    - CubeDatas:
+      - CellPosition: {x: 0, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 0, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 1, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 2, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 3, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 4, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 5, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 6, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 7, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 8, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 9, y: 0, z: 10}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 0}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 1}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 2}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 3}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 4}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 5}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 6}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 7}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 8}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 9}
+        CubeType: 0
+      - CellPosition: {x: 10, y: 0, z: 10}
+        CubeType: 0
+      BarrierDatas:
+      - StartCellPosition: {x: 3, y: 0, z: 7}
+        EndCellPosition: {x: 3, y: 0, z: 7}
+      - StartCellPosition: {x: 3, y: 0, z: 8}
+        EndCellPosition: {x: 3, y: 0, z: 8}
+      - StartCellPosition: {x: 4, y: 0, z: 7}
+        EndCellPosition: {x: 4, y: 0, z: 7}
+      - StartCellPosition: {x: 4, y: 0, z: 8}
+        EndCellPosition: {x: 4, y: 0, z: 8}
+      - StartCellPosition: {x: 5, y: 0, z: 7}
+        EndCellPosition: {x: 5, y: 0, z: 7}
+      - StartCellPosition: {x: 5, y: 0, z: 8}
+        EndCellPosition: {x: 5, y: 0, z: 8}
+      - StartCellPosition: {x: 6, y: 0, z: 7}
+        EndCellPosition: {x: 6, y: 0, z: 7}
+      - StartCellPosition: {x: 6, y: 0, z: 8}
+        EndCellPosition: {x: 6, y: 0, z: 8}
+      - StartCellPosition: {x: 7, y: 0, z: 7}
+        EndCellPosition: {x: 7, y: 0, z: 7}
+      - StartCellPosition: {x: 7, y: 0, z: 8}
+        EndCellPosition: {x: 7, y: 0, z: 8}
+      - StartCellPosition: {x: 3, y: 0, z: 3}
+        EndCellPosition: {x: 3, y: 0, z: 3}
+      - StartCellPosition: {x: 3, y: 0, z: 4}
+        EndCellPosition: {x: 3, y: 0, z: 4}
+      - StartCellPosition: {x: 4, y: 0, z: 3}
+        EndCellPosition: {x: 4, y: 0, z: 3}
+      - StartCellPosition: {x: 4, y: 0, z: 4}
+        EndCellPosition: {x: 4, y: 0, z: 4}
+      - StartCellPosition: {x: 5, y: 0, z: 3}
+        EndCellPosition: {x: 5, y: 0, z: 3}
+      - StartCellPosition: {x: 5, y: 0, z: 4}
+        EndCellPosition: {x: 5, y: 0, z: 4}
+      - StartCellPosition: {x: 6, y: 0, z: 3}
+        EndCellPosition: {x: 6, y: 0, z: 3}
+      - StartCellPosition: {x: 6, y: 0, z: 4}
+        EndCellPosition: {x: 6, y: 0, z: 4}
+      - StartCellPosition: {x: 7, y: 0, z: 3}
+        EndCellPosition: {x: 7, y: 0, z: 3}
+      - StartCellPosition: {x: 7, y: 0, z: 4}
+        EndCellPosition: {x: 7, y: 0, z: 4}
